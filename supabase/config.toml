@@ -1,1 +1,4 @@
 project_id = "obuineseeanslijurisj"
+
+[functions.search-youtube]
+verify_jwt = false
